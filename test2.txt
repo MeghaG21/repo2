@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EA84-73FD
+
+ Directory of C:\Users\megha.garg\Desktop\my project
+
+02/13/2018  05:21 PM    <DIR>          .
+02/13/2018  05:21 PM    <DIR>          ..
+02/13/2018  05:21 PM    <DIR>          test1.txt
+02/13/2018  05:21 PM                 0 test2.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  282,005,180,416 bytes free
